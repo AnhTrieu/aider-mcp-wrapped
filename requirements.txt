@@ -41,7 +41,7 @@ cachetools==5.5.2
     # via
     #   -c requirements/common-constraints.txt
     #   google-auth
-certifi==2025.6.15
+certifi==2026.10.18
     # via
     #   -c requirements/common-constraints.txt
     #   httpcore
@@ -98,7 +98,7 @@ gitdb==4.0.12
     # via
     #   -c requirements/common-constraints.txt
     #   gitpython
-gitpython==3.1.44
+gitpython==3.2.1
     # via
     #   -c requirements/common-constraints.txt
     #   -r requirements/requirements.in
@@ -316,7 +316,7 @@ ptyprocess==0.7.0
     # via
     #   -c requirements/common-constraints.txt
     #   pexpect
-pyasn1==0.6.1
+pyasn1==0.6.5
     # via
     #   -c requirements/common-constraints.txt
     #   pyasn1-modules
